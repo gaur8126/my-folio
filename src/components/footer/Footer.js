@@ -18,9 +18,7 @@ export default function Footer() {
             href="https://github.com/gaur8126"
             target="_blank"
             rel="noreferrer"
-          >
-            
-          </a>
+          ></a>
         </p>
       </div>
     </Fade>

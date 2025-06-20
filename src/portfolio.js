@@ -49,11 +49,12 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "CRAZY DATA 'SCIENTIST AND AI ENTHUSIAST' WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle:
+    "CRAZY DATA 'SCIENTIST AND AI ENTHUSIAST' WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Continuously learning and exploring the latest advancements in AI and Data Science"
-    ),
+    )
     // emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     // emoji(
     //   "⚡ Integration of third party services such as AWS"
@@ -97,7 +98,8 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Seaborn",
       // fontAwesomeClassname: "fab fa-scikit-learn"
-      image: "https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png"
+      image:
+        "https://vectorseek.com/wp-content/uploads/2023/12/seaborn-Logo-Vector.svg-.png"
     },
     {
       skillName: "pytorch",
@@ -107,7 +109,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Tensorflow",
       // fontAwesomeClassname: "fab fa-js"
-      image:"https://icon.icepanel.io/Technology/svg/TensorFlow.svg"
+      image: "https://icon.icepanel.io/Technology/svg/TensorFlow.svg"
     },
     {
       skillName: "github actions",
@@ -136,7 +138,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "aws",
       // fontAwesomeClassname: "fab fa-aws"
-      image:"https://icon.icepanel.io/Technology/png-shadow-512/AWS.png"
+      image: "https://icon.icepanel.io/Technology/png-shadow-512/AWS.png"
     },
     {
       skillName: "docker",
@@ -146,7 +148,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "flask",
       // fontAwesomeClassname: "fas fa-"
-      image:"https://icon.icepanel.io/Technology/png-shadow-512/Flask.png"
+      image: "https://icon.icepanel.io/Technology/png-shadow-512/Flask.png"
     },
     // {
     //   skillName: "FastAPI",
@@ -166,9 +168,9 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "Power bi",
       // fontAwesomeClassname: "fab fa-git"
-      image: "https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png"
-    },
-    
+      image:
+        "https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png"
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -184,8 +186,8 @@ const educationInfo = {
       subHeader: "Bachelor's of Vocation in AI & ROBOTICS",
       duration: "September 2023 - April 2026",
       grade: "7.6/10 CGPA",
-      location: "Agra, Uttar Pradesh, India",
-      
+      location: "Agra, Uttar Pradesh, India"
+
       // desc: "Participated in the research of XXX and published 3 papers.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
@@ -198,11 +200,9 @@ const educationInfo = {
       subHeader: "Intermediate",
       duration: "April 2022 - April 2023",
       grade: "85.6 %",
-      location: "Kiraoli, Agra",
+      location: "Kiraoli, Agra"
       // desc: "Ranked 1 in the college",
       // descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
-      
-      
     }
   ]
 };
@@ -237,13 +237,13 @@ const workExperiences = {
       role: "Machine Learning Engineer Intern",
       company: "igniis",
       companylogo: require("./assets/images/ignis.png"),
-      date: "May 2025 – July 2025",
+      date: "May 2025 – July 2025"
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
-    },
+    }
     // {
     //   role: "Front-End Developer",
     //   company: "Quora",
@@ -315,7 +315,7 @@ const achievementSection = {
       title: "Build A Thon (A Four Day Workshop On Arduino And Hackathon)",
       subtitle:
         "Selected as the top 3 out of 15 teams. Developed an AI-POWERED sign language detection system using Arduino and Teachable Machine as part of a team project",
-      
+
       image: require("./assets/images/Dayalbagh_Educational-0a268d.jpg"),
       imageAlt: "udemy Logo",
       footerLink: [
@@ -335,7 +335,7 @@ const achievementSection = {
         {
           name: "Certification",
           url: "https://drive.google.com/file/d/1B-M21Uks2XldRyVWn7uKApn5Yem00yma/view?usp=sharing"
-        },
+        }
         // {
         //   name: "Award Letter",
         //   url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
@@ -350,7 +350,7 @@ const achievementSection = {
       title: "Mathematics-Basics to Advance for Data Science and GenAI",
       subtitle:
         "Learned about Linear Algebra, Calculus, Statisticsa and Probability",
-      
+
       image: require("./assets/images/udemy.png"),
       imageAlt: "udemy Logo",
       footerLink: [
@@ -363,11 +363,15 @@ const achievementSection = {
 
     {
       title: "Ultimate Web Scraping for Data Science",
-      subtitle: "Learned how to extract and process data from websites using Python libraries like BeautifulSoup, Selenium, and Scrapy. Focused on handling dynamic content, pagination, and storing data for data science workflows.",
+      subtitle:
+        "Learned how to extract and process data from websites using Python libraries like BeautifulSoup, Selenium, and Scrapy. Focused on handling dynamic content, pagination, and storing data for data science workflows.",
       image: require("./assets/images/udemy.png"),
       imageAlt: "udemy Logo",
       footerLink: [
-        {name: "Certification", url: "https://drive.google.com/file/d/1wCcAumCBOjb_HqqLz1oh3LHjv1WE0SXO/view?usp=sharing"},
+        {
+          name: "Certification",
+          url: "https://drive.google.com/file/d/1wCcAumCBOjb_HqqLz1oh3LHjv1WE0SXO/view?usp=sharing"
+        }
         // {
         //   name: "Final Project",
         //   url: ""
