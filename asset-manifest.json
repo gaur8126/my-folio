@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-folio/static/css/main.b3277f56.css",
+    "main.js": "/my-folio/static/js/main.a916276b.js",
+    "static/css/64.bba8fa55.chunk.css": "/my-folio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.9ce5daa5.chunk.js": "/my-folio/static/js/64.9ce5daa5.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/my-folio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.ee695d66.chunk.js": "/my-folio/static/js/769.ee695d66.chunk.js",
+    "static/media/pw.png": "/my-folio/static/media/pw.aca5288f066ca98671d3.png",
+    "static/media/Lokesh_Resume.pdf": "/my-folio/static/media/Lokesh_Resume.283fede48c61d29bafc1.pdf",
+    "static/media/swami.png": "/my-folio/static/media/swami.d64826f1d4508cd6f9e4.png",
+    "static/media/Montserrat-Regular.ttf": "/my-folio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/ignis.png": "/my-folio/static/media/ignis.7b9c75119e60542cf3b9.png",
+    "static/media/Agustina.woff": "/my-folio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/my-folio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/my-folio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/my-folio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/udemy.png": "/my-folio/static/media/udemy.b0f17e7984bcb09c3e4e.png",
+    "static/media/skill.svg": "/my-folio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/saayaHealthLogo.webp": "/my-folio/static/media/saayaHealthLogo.60b27d1f184fadfce43a.webp",
+    "static/media/nextuLogo.webp": "/my-folio/static/media/nextuLogo.e033dbfa4c58c0a906aa.webp",
+    "index.html": "/my-folio/index.html",
+    "static/media/talksCardBack.svg": "/my-folio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.b3277f56.css.map": "/my-folio/static/css/main.b3277f56.css.map",
+    "main.a916276b.js.map": "/my-folio/static/js/main.a916276b.js.map",
+    "64.bba8fa55.chunk.css.map": "/my-folio/static/css/64.bba8fa55.chunk.css.map",
+    "64.9ce5daa5.chunk.js.map": "/my-folio/static/js/64.9ce5daa5.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/my-folio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.ee695d66.chunk.js.map": "/my-folio/static/js/769.ee695d66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3277f56.css",
+    "static/js/main.a916276b.js"
+  ]
+}
